@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: cn.bugstack.ai:chatbot-api-domain:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/bugstack/ai/chatbot-api-domain/1.0-SNAPSHOT/chatbot-api-domain-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/bugstack/ai/chatbot-api-domain/1.0-SNAPSHOT/chatbot-api-domain-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/bugstack/ai/chatbot-api-domain/1.0-SNAPSHOT/chatbot-api-domain-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/chatbot-api-interfaces/src/main/java" />
+      <root url="file://$PROJECT_DIR$/chatbot-api-interfaces/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
