@@ -1,7 +1,6 @@
 package com.lzc.chatbot.api.Test;
 
 import org.apache.http.HttpStatus;
-import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
@@ -61,6 +60,13 @@ public class ApiTest {
         }else{
             System.out.println(response.getStatusLine().getStatusCode());
         }
+
+    }
+    @Test
+    public void test_chatGPT(){
+        CloseableHttpClient httpClient = HttpClientBuilder.create().build();
+
+        HttpPost post = new HttpPost("");
 
     }
 }
