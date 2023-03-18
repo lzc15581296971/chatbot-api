@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/chatbot-api.iml" filepath="$PROJECT_DIR$/.idea/chatbot-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatbot-api-application/chatbot-api-application.iml" filepath="$PROJECT_DIR$/chatbot-api-application/chatbot-api-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatbot-api-common/chatbot-api-common.iml" filepath="$PROJECT_DIR$/chatbot-api-common/chatbot-api-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatbot-api-domain/chatbot-api-domain.iml" filepath="$PROJECT_DIR$/chatbot-api-domain/chatbot-api-domain.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatbot-api-infrastructure/chatbot-api-infrastructure.iml" filepath="$PROJECT_DIR$/chatbot-api-infrastructure/chatbot-api-infrastructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/chatbot-api-interfaces/chatbot-api-interfaces.iml" filepath="$PROJECT_DIR$/chatbot-api-interfaces/chatbot-api-interfaces.iml" />
